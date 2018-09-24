@@ -112,18 +112,18 @@
       <option name="presentableId" value="Default" />
       <updated>1537786901976</updated>
       <workItem from="1537786903375" duration="971000" />
-      <workItem from="1537787921594" duration="28000" />
+      <workItem from="1537787921594" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51000" />
+    <option name="totallyTimeSpent" value="368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="54" width="1400" height="765" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6692857" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6692857" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
